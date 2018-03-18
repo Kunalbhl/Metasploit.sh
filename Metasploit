@@ -67,7 +67,7 @@ rm $HOME/4.16.16.tar.gz
 echo "###############################################"
 echo "###############################################"
 echo "###############################"
-echo " more info to contact https://www.facebook.com/tech.os.prashant/    "
+echo " more info to contacts https://www.facebook.com/tech.os.prashant/    "
 echo "###############################"
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
